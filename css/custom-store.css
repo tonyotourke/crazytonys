@@ -1,0 +1,42 @@
+/*.eb-content {
+	max-width:1170px !important;
+	 
+	width: 100%;
+}*/
+@media (min-width: 768px) and (max-width: 992px) {
+	.pagewidth .grid td.gallery {width: auto !important; padding: 0 !important; margin: 0 0 10px; display:block;}
+	.pagewidth td.r3_c .r3_cm {padding:0px 15px;}
+	.pagewidth div.r3_cm div.rs_box div.ctrlbr {position:relative;right:unset;top:unset;margin:0 0 15px;}
+	.pagewidth div.r3_cm div.rs_box div.ctrlbr span.pdmt span {padding:0;}
+	.pagewidth div.r3_cm div.rs_box .pview.rs-pview table.grid td.gallery table.fixed tr td {display:inline-block;}
+	.pagewidth div.r3_cm div.rs_box .pview.rs-pview table.grid td.gallery table.fixed tr td.bin-content {float:right;}
+	.pagewidth .r3_t {width:auto;}
+	
+}
+@media screen and (max-width: 767px) {
+.navbar-brand {
+	padding-left:0;
+}
+.search {
+	margin:auto !important;
+}
+.navbar-brand {
+	height:auto;
+}
+.eb-content thead {
+	display:none;
+}
+.eb-content table, .eb-content tbody, .eb-content tr, .eb-content td {
+	display:block;
+}
+.stBadge {
+	min-width:320px !important;
+}
+.stBadge img {
+	width:auto;
+}
+
+}
+
+
+#gh, .tb_v4bc {display: none;} 

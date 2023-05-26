@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.price h3{}
+	.pay img {float: right; margin-right:10px;}
+	.dlvry #r img { margin-top: 25px;}
+	.desc-lft{margin-bottom: 20px;}
+	.serv ul {padding: 0;}
+	.serv ul li {display: inherit; padding: 10px 0px; text-align: center; width: 20%;float: left;}
+	.collect, .vat, .dlvry, .pay{clear:both; }
+	.desc-lft, .lft{width:100% !important;}
+	.nav > li {float: left;}
+	.btm-menu i {width:100px;}
+	.menu #myNavbar li a {border: 0; padding:2px 10px; margin-bottom: 3px;}
+	/*.slider .large {width:95%; left:90px;}*/
+	.hero_sctr img {margin:10px auto;}
+	.container {padding-left: 0px}
+	.prod-btm {margin-top: 10px;}
+	.rgt {min-height: auto; padding-bottom: 15px;}
+	  .lft {margin-left: 25px;}
+	

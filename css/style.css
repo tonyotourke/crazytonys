@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700&display=swap');
+
+
+
+
+
+ /*----------Default font styles-----------*/
+row, header, .container, .navbar-nav, .col, .navbars, footer, .footer p, span, .newpromo {
+	
+font-family: 'Josefin Sans', sans-serif !important; font-size:12px;	
+	
+}
+
+ /*----------Search Customer View Basket A links -----------*/
+.gray, .right a {color: #3a4c56;}
+
+ /*----------Top Bar BG Color -----------*/
+
+.top-bar{background: #dbdbdb; line-height: 0.8em;}
+
+ /*----------Top Bar A Links -----------*/
+
+.top-bar-rgt li a {color: #1d1d1d;}
+
+ /*----------HEADERB BG -----------*/
+.topheader {min-height: 95px; background:url(https://raw.githubusercontent.com/tonyotourke/crazytonys/main/images/headerbg.gif) 0 0 repeat-x #f8f8f8; background:#fff;}
+
+ /*----------NAV BG BG -----------*/
+
+.menu{background: #fff; border-top: solid 1px #e6e7e8; border-bottom: solid 1px #e6e7e8; }
+.menu #myNavbar li a{color: #3a4c56; padding:15px 20px 15px; font-size: 12px; font-weight: 400;}
+.menu #myNavbar li a:hover {background-color: #3a4c56; color: #fff;}
+#sale{background: #000;}
+#newarvl{background: #9eb3bf; margin-left:1px; color:#fff}
+#newarvl a { color:#fff !important}
+
+
+ /*----------3 PROMOS -----------*/
+  /*-FULL WIDTH BG COLOUR-*/
+ .btm-menu {background-color: #f5f5f5; text-transform: uppercase;}
+  /*-3 PROMO BG-*/
+ .btm div div div {background-color: #e0e0e0; padding:15px; width: 100%; display:inline-block; line-height:12px;}
+  /*-3 PROMO FONT-*/
+ .btm-menu span {padding-right: 10px; color: #000; line-height: 22px;}
+  /*-3 PROMO RIGHT FONT-*/
+ .btm-menu i {display:block; float:right; padding-left: 8px; border-left:1px solid #727272; color: #000; font-size:11px; font-style:normal; font-weight:normal;}
+ 
+ 
+ /*----------CLICK TO SHOP -----------*/
+ .what {padding:20px 0 15px; font-size:11px; color: #000;}
+.what a {display:inline-block; background-color:#e3e3e3; margin-left:20px; padding:5px 18px; color: #000; font-size: 11px;}
+
+/*----------MID BG -----------*/
+ .main-cntnt{background: #fff; padding-top:7px;}
+ .cntnt{background: #FFF; padding-top:10px; padding-bottom:10px;}
+ 
+ /*----------RIGHT CONTENT-----------*/
+
+.btn1, .btn2 {display:block; text-align: center; color: #3a4c56; font-size:18px; padding: 10px;     width: 48.8%; float: left; background: #fff; border: solid 1px #44555f; font-weight: 400 !important;}
+.btn1 {margin-right: 5px; }
+.btn2 {margin-left: 5px;}
+.btn2 span { font-size: 18px;}
+.btn1:hover, .btn2:hover {color: #000}
+
+
+ .collect span {font-size: 16px !important; font-weight:600; color: #00bcb4;}
+ .prod-btm{background:url("https://raw.githubusercontent.com/tonyotourke/crazytonys/main/images/medal.png") 98% center no-repeat #a5a5a5; margin: 0 -15px; padding: 10px 15px 14px; color: #fff;}
+ .ratings a {color:#000; padding-left: 5px;}
+	 
+ 
+  /*----------INSPIRED BG-----------*/ 
+ 
+ .inspired a {color:#fff; padding:5px 30px 10px;   border: solid 2px #fff; line-height:26px;}
+ 
+ 
+    /*----------FOOTER-----------*/ 
+	
+footer {background-color: #a3b0b8; color:#fff; padding-top:25px;}
+footer a, footer a:hover {color:#fff; font-size: 12px;}
+footer h5 {font-size:18px;}
+footer li {line-height:25px; font-size:12px;}
+.footer-bottom {background-color:#a3b0b8; padding:20px;}
+.footer-top {padding-top: 35px; padding-bottom: 35px;}
+	
+	 /*----------STYLE ENDS-----------*/ 
+	
+	
+	
+	.leftpromo {color: #3a4c56; font-size: 14px; text-align: left; padding-top: 55px; font-weight: 300;}
+	.newpromo {text-align: center; padding: 20px; font-size: 14px; color: #fff; background: #e3d0d0; margin-top: 10px;}
+    .newpromo img {padding-right: 5px; max-height: 25px; width: auto;} 
+	.starmove {padding-left: 20px;}
+	.pers {display: inline-flex; background: #f8f4f4;   font-size: 18px; padding-top:10px; padding-bottom: 10px; margin-top: 15px; margin-bottom: 15px; color: #3a4c56;}
+.pers img {padding-right: 10px; padding-left: 15px;  height: 35px; width: auto;     margin-top: 7px;}
+
+.top-bar-rgt{display: inline-flex;list-style: none;float: right;}
+.top-bar-rgt li {padding: 10px 10px 0px;} 
+.logo {}
+.logo img {max-width: 425px; height: auto; margin: 0 auto; padding-top:17px; padding-bottom: 17px;}
+.right ul {padding:0;}
+.right ul li {display: inline; margin-top: 55px; padding:0 10px; float:left; line-height:26px; font-size:11px; padding-left: 10px;}
+.right ul li.cust { margin:inherit 10px 0;}
+.right ul li.basket {}
+.right strong {font-size:14px; font-weight: 300; padding-left: 6px; }
+.right img {margin-right: 3px;}
+.btm-menu img{float:left; margin-right:10px;}
+.menu nav.navbar.navbar {margin: 0;}
+.btm { padding: 10px 0; font-weight: 600; line-height: 2.6em;}
+/*.banner {background:url("https://raw.githubusercontent.com/tonyotourke/crazytonys/main/images/banner.jpg") center no-repeat #727272; background-size:cover; min-height:212px; margin-top:6px;}*/
+.inner{ }
+.desc-rgt .inner h5{background: #727272; padding: 12px; margin: 0;color: #fff;}
+.wtsnw {margin-bottom: 15px; margin-top:35px; text-align:center;}
+.hero_sctr {background-color: #f4f2f2; padding:15px 0 0px;}
+.hero_sctr img {border: 3px solid #fff;}
+.inspired {border-top:26px solid #fff; font-size:16px; margin-top:25px; padding-top:20px; padding-bottom: 20px; color:#fff; line-height:35px; background: #a3b0b8; border-bottom: solid 1px #fff;}
+.inspired .container  div {padding:0 10%; font-size: 16px; letter-spacing: 2.5px; padding-top: 10px; }
+footer .signup {border-left: 1px solid #fff; padding-left:5%}
+.footer-bottom  img {margin: 0 auto;}
+.ebay {display:none;}
+.ftr-logo {margin: 40px;}
+.copyright {color: white;padding-bottom: 20px;}
+.serv ul li{display: inline-flex; list-style: none; padding: 15px 35px;}
+.serv ul li p {color: white; padding-left:10px;}
+.rgt{    }
+.lft{min-height: 500px; }
+.title {color:#3a4c56; font-size:24px; border-bottom: solid 2px #eaebed; padding-bottom: 5px;}
+.title img {margin-top:10px;}
+.ratings {margin-bottom: 12px; padding:13px 10px 8px 0; font-size:11px; color:#53565a;}
+.ratings span {margin-right: 10px; }
+.ratings i {display:inline; background:url("https://raw.githubusercontent.com/tonyotourke/crazytonys/main/images/star.gif") center no-repeat; padding: 6px;}
+.price{margin-bottom: 40px;}
+.price h3 {margin-top: 35px; margin-bottom: 0;}
+.price p {font-size:11px;}
+.price span{color:#a20202;}
+.collect{margin: 10px 0px; min-height: 60px}
+.collect #half{width: 70%; float: left;}
+.pay {border-top: 1px solid #e5e5e5; margin-left: -15px; margin-right: -15px; padding: 0 15px 15px;}
+.pay #txt { width: 60%; float: left; padding-left: 15px;}
+.pay #txt h4{margin: 10px 0 0;}
+.pay img {margin-top: 15px;   float:right;
+    clear:right; margin-right: 15px;}
+.dlvry {border-top: 1px solid #e5e5e5; margin-left: -15px; margin-right: -15px; padding: 0 15px 15px;}
+.dlvry .l {width: 70%; float: left; padding-left: 15px;}
+.dlvry .l h4{margin: 10px 0 0;}
+.dlvry .r {padding: 8px;}
+.shp {border: 1px solid #e5e5e5;padding: 10px 10px 10px 50px; background:url("https://raw.githubusercontent.com/tonyotourke/crazytonys/main/images/plug.gif") 10px center no-repeat;}
+main {min-width: 310px; margin:auto; background: #fff; position:relative;}
+section { display: none; padding: 20px 0 0; color:#3a4c56; font-size:12px; line-height:20px; font-family: 'Josefin Sans', sans-serif !important;}
+section li {margin: 0.20em 0em !important;}
+section ul {margin 0 !important; padding-left: 12px;}
+section p, #font, section li, section ul, section span {color: #3a4c56 !important; font-size: 16px !important; font-family: 'Josefin Sans', sans-serif !important;}
+font {font-size: 16px !important; font-family: 'Josefin Sans', sans-serif !important;}
+ 
+
+
+main input { display: none;}
+main label { background-color:#fff;   display: inline-block; margin: 0 0 -0px; padding: 8px 20px 11px; font-weight: 400; font-size: 16px; text-align: center; color:#3a4c56; z-index:98; width:20%; position:relative; border-bottom: solid 1px #e6e7e8;}
+main label:before { font-weight: normal; margin-right: 0px;}
+main label[for*='1']:before { content: ''; }
+main label[for*='2']:before { content: ''; }
+main label[for*='3']:before { content: ''; }
+main label[for*='4']:before { content: ''; }
+main label[for*='5']:before { content: ''; }
+main label.nbr {border-right:0;}
+main label.last {position:absolute; width: 100%; float: left; left: 0; z-index: 0; padding:21px;}
+main label.last:hover {cursor:auto}
+main label:hover { cursor: pointer;}
+main input:checked + label {background-color:#fff; font-weight:600; color:#3a4c56;}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4,
+#tab5:checked ~ #content5 { display: block; padding: 15px; min-height:155px;}
+
+.slider {background: #fff; text-align:center; position: relative; /*Instead of height we will use padding*/
+	padding-top: ;  /*That helps bring the labels down*/ overflow: hidden; min-height: 400px;
+}
+/*
+.wpl_product_image {width: auto !important;}
+.wpl_product_image img {width: auto !important;}  if wordpress*/
+.thumbnail img {max-height: 80px; width: auto;}
+
+	/*Last thing remaining is to add transitions*/
+	.large {max-width: 510px;}
+.slider .large{ position: absolute; left: 110px; top: 0; transition: all 0.5s; width:96%;  overflow-y:hidden;}
+.slider .large img{max-height: 400px;
+max-width: 100%;}
+.slider input[type="radio"] { display: none;}
+.slider label {margin-bottom:12px; position:relative; width:80px; cursor: pointer; padding:5px;   transition: all 0.5s; opacity: 0.6; /*default low opacity*/}
+.slider label img {display: block; max-width:70px;}
+.slider input[type="radio"]:checked+label {opacity: 1; border:1px solid #ccc;}
+	/*clicking any thumbnail now should change its opacity(style) / Time to work on the main images*/
+.slider input[type="radio"] ~ .large { opacity: 0;	transform: scale(1.1);}
+	/*that hides all main images at a 110% size. On click the images will be displayed at normal size to complete the effect */
+.slider input[type="radio"]:checked+label+.large { opacity: 1; transform: scale(1);}
+	/*Clicking on any thumbnail now should activate the image related to it*/
+.thumbnail {border:0; padding:0; }
+
+#thumb img { margin: 0px 1px;padding: 5px;margin-bottom: 10px;}
+.prod-btm ul {display: inline-flex;margin: 0 auto;padding: 0;}
+.prod-btm ul li {list-style: none; padding: 5px 2px;}
+
+.prod-btm ul li { list-style-image:url("https://raw.githubusercontent.com/tonyotourke/crazytonys/main/images/tick.png"); margin-left:25px; padding-left:0px;}
+.prod-btm h3 {margin: 0px 10px 0px 0; float:left; width:90%}
+.prod-desc {margin-top: 50px;}
+.prod {margin-top: 10px;}
+.prod-desc h4{font-weight: 600;}
+.desc-rgt .inner #spec {margin-top: 10px; padding:15px; min-height:302px;}
+
+/*media query for devices*/
+@media only screen and (max-width: 480px){
+	body{overflow-x: hidden;}
+	.top-bar{display: none;}
+	.navbar-toggle{background: #000;}
+	.navbar-toggle .icon-bar{background: #ffffff;}
+	.prod-btm ul{display: block;}
+	.btm{text-align: center;}
+	.btm div div div {padding:10px 10px; font-size:11px; text-align:left;}
+	.trust img {width:65px; margin-top:2px;}
+	.title img {width: 75px;}
+	.btm-menu i {font-size:10px;}
+	.prod-desc{margin-top: 0px;}
+	.main-cntnt, .cntnt {padding: 0;}
+	.prod-btm {margin-top: 10px;}
+	.desc-lft, .lft{width:100% !important;}
+	.desc-lft .nav-pills{margin: 0 auto;}
+	.nav-pills>li+li{margin-left: 0px !important;}
+	.nav-pills>li{float: none !important; text-align: center;}
+	.breadcrumbs {padding-left:10px}
+	.lft {min-height: 440px;}
+	.slider {padding-top: 300px; min-height: 320px; width:100%;}
+	.slider .large {left:0px; width:100%}
+	.slider .large .clk {width: 170px;}
+	.slider label {width:18%; padding:3px; display:inline-block;}
+	.slider label img {display: block; max-width:100%;}
+	.slider .large img {max-height: 380px; width: auto;}
+	.prod {padding:10px;}
+	main label.nbr, main label.first {padding:9px; line-height:16px;}
+	main label {font-size: 97%; padding:9px 5px; height:52px; line-height:36px; float:left;}
+	section {padding:15px 10px; clear:both; float:left; border-bottom:1px solid #ccc;}
+	.hero_sctr img {margin:5px 0}
+	.inspired {line-height: 24px; font-size:14px;}
+	.inspired .container div {padding:0;}
+	.inspired a {padding:1px 17px 3px; font-size:13px; margin-top:2%;}
+	.nav > li {float: left;}
+	.menu #myNavbar li a {border: 0; padding:2px 9px;}
+	#sale {clear:left; margin-left: 9px;}
+
+}
+@media only screen and (min-width: 360px) and (max-width: 480px){
+	.slider {padding-top: 400px; min-height: 420px; width:100%;}
+	main label.nbr, main label.first {line-height:35px !important;}
+	
+}
+
+@media only screen and (min-width: 667px) and (max-width: 1200px){
+	.price h3{margin-top: 85px;}
+	.pay img {float: right; margin-right:10px;}
+	.dlvry #r img { margin-top: 25px;}
+	.desc-lft{margin-bottom: 20px;}
+	.serv ul {padding: 0;}
+	.serv ul li {display: inherit; padding: 10px 0px; text-align: center; width: 20%;float: left;}
+	.collect, .vat, .dlvry, .pay{clear:both; }
+	.desc-lft, .lft{width:100% !important;}
+	.nav > li {float: left;}
+	.btm-menu i {width:100px;}
+	.menu #myNavbar li a {border: 0; padding:2px 10px; margin-bottom: 3px;}
+	.slider .large {width:95%; left:90px;}
+	.hero_sctr img {margin:10px auto;}
+	.prod-btm {margin-top: 10px;}
+	.btn1, .btn2 {width:48%; margin:0 1% 20px; float:left}
+}
+
+#inkfrog_credit {display: none;}
